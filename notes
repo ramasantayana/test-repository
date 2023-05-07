@@ -1,0 +1,24 @@
+To see remote repo
+git remote -v 
+
+
+git remote add origin [link]
+to add remote repo
+
+git status
+see git status
+
+git add . 
+add files to git
+
+git commit -m "first"
+adding commit
+
+git push origin master
+pushing code to git
+
+master
+my current branch 
+
+git init
+initialize git
